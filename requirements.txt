@@ -1,0 +1,6 @@
+tensorflow
+sklearn
+ipykernel
+autopep8
+matplotlib
+numpy
